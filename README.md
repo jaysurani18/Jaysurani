@@ -83,23 +83,6 @@
 
 ## 🚀 Featured Projects
 
-
-### 🛒 Smart Cart (IoT Project) — SSIP 2.0 (Granted)
-- Intelligent shopping cart for supermarkets and retail stores  
-- Automates product detection and reduces billing time  
-- Enhances customer checkout experience  
-- **Tech:** IoT, Sensors, Automation  
-
----
-
-### 🗑️ Smart Garbage Collection System (IoT) — SSIP 2.0
-- Smart dustbin system designed for smart-city waste management  
-- Enables real-time garbage level monitoring  
-- Optimizes waste collection and improves cleanliness  
-- **Tech:** IoT, Sensors, Automation  
-
----
-
 ### 🏢 Smart Society Management System
 - Full-stack web application for residential society management  
 - Role-based access for admin, residents, and staff  
@@ -120,7 +103,25 @@
 - Responsive online platform for clothing products  
 - Product browsing, search, and checkout functionality  
 - Mobile-friendly user interface  
-- **Tech:** PHP, MySQL, JavaScript, Bootstrap  
+- **Tech:** PHP, MySQL, JavaScript, Bootstrap
+
+ ---
+ 
+### 🛒 Smart Cart (IoT Project) — SSIP 2.0 (Granted)
+- Intelligent shopping cart for supermarkets and retail stores  
+- Automates product detection and reduces billing time  
+- Enhances customer checkout experience  
+- **Tech:** IoT, Sensors, Automation  
+
+---
+
+### 🗑️ Smart Garbage Collection System (IoT) — SSIP 2.0
+- Smart dustbin system designed for smart-city waste management  
+- Enables real-time garbage level monitoring  
+- Optimizes waste collection and improves cleanliness  
+- **Tech:** IoT, Sensors, Automation  
+
+---
 
 🔗 **Explore more:** https://github.com/jaysurani18?tab=repositories
 
